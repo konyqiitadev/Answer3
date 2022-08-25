@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_blur_": {
+        "enabled": false,
+        "value": 20
+    },
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc9cdc41c9d4643a9cb53de71dede62",
+    "_text_": "ホーム",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "displaytext": true,
+    "focusskin": "s008ff257f6642188c102753c5cdd7ee",
+    "hoverskin": "",
+    "id": "btnTitleUnlink",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce5db1d3a90741b78450a04855fb54cb",
+    "name": "kony.ui.Button",
+    "parent": "flxTemplate",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "isVisible": true,
+            "skin": "s728449a58184631a1abbd237df38438"
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "desktopweb": {
+                "psp": {
+                    "hoverSkin": "s008ff257f6642188c102753c5cdd7ee"
+                }
+            },
+            "disabledSkins": {},
+            "isVisible": false,
+            "text": "ホーム"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

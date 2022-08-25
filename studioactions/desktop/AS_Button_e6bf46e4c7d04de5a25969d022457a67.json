@@ -1,0 +1,29 @@
+{
+    "AS_Button_e6bf46e4c7d04de5a25969d022457a67": {
+        "id": "AS_Button_e6bf46e4c7d04de5a25969d022457a67",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b10f5237eb0543688d6b79a0fd7e10d8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__c071e000c1f44c3c8648c8d8c613fdda",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmProduct",
+            "formKUID": "h1452cc3f8824a5a8c2509337016b265",
+            "projectName": "qiita93",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

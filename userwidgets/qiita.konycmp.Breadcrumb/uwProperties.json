@@ -1,0 +1,56 @@
+{
+    "classname": "Breadcrumb",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "[{\"name\":\"ホーム\",\"page\":\"frmHome\",\"disabled\":false}]",
+                    "group": "General",
+                    "kuid": "g4ec9aabb38b4f9c8a392fd6727da047",
+                    "originalPropertyKey": "data",
+                    "propertyIndex": 1,
+                    "propertyKey": "data",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "data",
+                        "toolTip": "Home>XXX>XXX",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "u2be6cf30f18432fafd541be57e47616",
+                    "type": "json",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "qiita.konycmp",
+    "version": "1.0.0"
+}

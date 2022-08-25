@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2961123a74a4cc49af73306cefb6bcb",
+    "_text_": "商品詳細へ",
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "70%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s462e9302dc74be6a780480c898a2198",
+    "id": "btnNext",
+    "ide_onClick": "AS_Button_e40320cf0d364e54b3906efa6376bdc3",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f239b40fede44a66b80bc8a94a21a487",
+    "name": "kony.ui.Button",
+    "parent": "flxMain",
+    "pf": "frmProduct",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_c29637b2d5ac46ba836a61e8fd904b44": {
+        "id": "AS_Button_c29637b2d5ac46ba836a61e8fd904b44",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ea8bdd23a7cb41f69eb318fd94814045",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "b10f5237eb0543688d6b79a0fd7e10d8",
+            "projectName": "qiita93",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

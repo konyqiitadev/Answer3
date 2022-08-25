@@ -1,0 +1,166 @@
+{
+    "PrimaryDarkNormal14": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryDarkNormal141": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryDarkNormalUnderline14": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "underline"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryDarkNormalUnderline141": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "underline"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryDarkNormalUnderline16": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 100
+        },
+        "style": {
+            "value": "underline"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryDarkNormalUnderline161": {
+        "color": {
+            "key": "color",
+            "value": "${themes.PrimaryDarkColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 100
+        },
+        "style": {
+            "value": "underline"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryLinkFocusNormalUnderline14": {
+        "color": {
+            "key": "color",
+            "value": "${themes.LinkFocusColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "PrimaryLinkFocusNormalUnderline141": {
+        "color": {
+            "key": "color",
+            "value": "${themes.LinkFocusColor}"
+        },
+        "name": {
+            "value": "YuGothic-Medium"
+        },
+        "size": {
+            "value": 90
+        },
+        "style": {
+            "value": "normal"
+        },
+        "type": "font",
+        "weight": {
+            "value": "normal"
+        }
+    },
+    "SecondBgColor": {
+        "color": {
+            "value": "f7f7f7ff"
+        },
+        "type": "color"
+    },
+    "SecondBgColor1": {
+        "color": {
+            "value": "f7f7f7ff"
+        },
+        "type": "color"
+    }
+}
